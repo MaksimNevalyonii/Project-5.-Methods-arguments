@@ -2,35 +2,6 @@ package part2_decomposition;
 
 import java.util.Scanner;
 
-/*
- * Part 2. Decomposition
- *
- * PSEUDOCODE:
- *
- * START
- *
- * Create Scanner for user input.
- *
- * REPEAT
- *     Print welcome message.
- *
- *     Get user's name.
- *     Get user's age.
- *     Get user's preferred game genre.
- *
- *     Select recommendation based on age and genre.
- *
- *     Print greeting.
- *     Print recommendation.
- *
- *     Ask user if they want to repeat.
- *
- * UNTIL user answers N.
- *
- * Print final message.
- *
- * END
- */
 
 public class Part2Decomposition {
 

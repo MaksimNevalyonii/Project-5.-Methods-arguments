@@ -2,9 +2,6 @@ package part3_calculator;
 
 import java.util.Scanner;
 
-/**
- * Part 3. Optional Basic Calculator
- */
 public class Part3Calculator {
 
     private static final Scanner scanner = new Scanner(System.in);
